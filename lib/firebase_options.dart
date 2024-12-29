@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB8iw24xk4h1vXfdAcaIP8Fio7seKCfabg',
-    appId: '1:624745375784:web:0476c1b4e1721f1e90ed1d',
-    messagingSenderId: '624745375784',
-    projectId: 'todo-app-b0611',
-    authDomain: 'todo-app-b0611.firebaseapp.com',
-    storageBucket: 'todo-app-b0611.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCPUDpCrENPFYJZox7z8dEFhb8IyHYooKQ',
-    appId: '1:624745375784:android:3ce31a16c1644d7b90ed1d',
-    messagingSenderId: '624745375784',
-    projectId: 'todo-app-b0611',
-    storageBucket: 'todo-app-b0611.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }
